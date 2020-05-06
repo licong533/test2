@@ -1,0 +1,37 @@
+﻿message type:
+1:the public key message
+	[type]
+	[number]
+	[key]
+2:the basic message
+	[type]
+	[id]num
+	[message]
+	[number]
+	[address]
+	[level]
+	[email]
+3:the level message
+	[type]
+	[level]
+	[key]
+
+
+toserver
+message type
+1:the public key message
+	[type]
+	[message]
+	[key]
+2:the basic message
+	[type]
+	[message]
+	[number]
+	[address]
+	[level]
+	[email]
+3:the level message
+	[type]
+	[num]
+	[level]
+	[key]

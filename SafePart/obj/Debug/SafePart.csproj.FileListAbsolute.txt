@@ -1,0 +1,29 @@
+c:\users\des\documents\visual studio 2012\Projects\SafePart\SafePart\bin\Debug\SafePart.exe.config
+c:\users\des\documents\visual studio 2012\Projects\SafePart\SafePart\bin\Debug\SafePart.exe
+c:\users\des\documents\visual studio 2012\Projects\SafePart\SafePart\bin\Debug\SafePart.pdb
+c:\users\des\documents\visual studio 2012\Projects\SafePart\SafePart\obj\Debug\SafePart.csprojResolveAssemblyReference.cache
+c:\users\des\documents\visual studio 2012\Projects\SafePart\SafePart\obj\Debug\SafePart.main.resources
+c:\users\des\documents\visual studio 2012\Projects\SafePart\SafePart\obj\Debug\SafePart.Properties.Resources.resources
+c:\users\des\documents\visual studio 2012\Projects\SafePart\SafePart\obj\Debug\SafePart.csproj.GenerateResource.Cache
+c:\users\des\documents\visual studio 2012\Projects\SafePart\SafePart\obj\Debug\SafePart.exe
+c:\users\des\documents\visual studio 2012\Projects\SafePart\SafePart\obj\Debug\SafePart.pdb
+D:\SafePart\bin\Debug\SafePart.exe.config
+D:\SafePart\obj\Debug\SafePart.exe
+D:\SafePart\obj\Debug\SafePart.pdb
+D:\SafePart\bin\Debug\SafePart.exe
+D:\SafePart\bin\Debug\SafePart.pdb
+D:\SafePart\bin\Debug\ManagedOpenSsl.dll
+D:\SafePart\obj\Debug\SafePart.csprojResolveAssemblyReference.cache
+D:\SafePart\obj\Debug\SafePart.main.resources
+D:\SafePart\obj\Debug\SafePart.Properties.Resources.resources
+D:\SafePart\obj\Debug\SafePart.csproj.GenerateResource.Cache
+C:\Users\李聪\Desktop\SafePart\bin\Debug\SafePart.exe.config
+C:\Users\李聪\Desktop\SafePart\obj\Debug\SafePart.exe
+C:\Users\李聪\Desktop\SafePart\obj\Debug\SafePart.pdb
+C:\Users\李聪\Desktop\SafePart\bin\Debug\SafePart.exe
+C:\Users\李聪\Desktop\SafePart\bin\Debug\SafePart.pdb
+C:\Users\李聪\Desktop\SafePart\bin\Debug\ManagedOpenSsl.dll
+C:\Users\李聪\Desktop\SafePart\obj\Debug\SafePart.csprojResolveAssemblyReference.cache
+C:\Users\李聪\Desktop\SafePart\obj\Debug\SafePart.main.resources
+C:\Users\李聪\Desktop\SafePart\obj\Debug\SafePart.Properties.Resources.resources
+C:\Users\李聪\Desktop\SafePart\obj\Debug\SafePart.csproj.GenerateResource.Cache
