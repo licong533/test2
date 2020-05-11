@@ -1,0 +1,10 @@
+C:\Users\李聪\Desktop\SafePart\bin\Release\SafePart.exe.config
+C:\Users\李聪\Desktop\SafePart\bin\Release\SafePart.exe
+C:\Users\李聪\Desktop\SafePart\bin\Release\SafePart.pdb
+C:\Users\李聪\Desktop\SafePart\bin\Release\ManagedOpenSsl.dll
+C:\Users\李聪\Desktop\SafePart\obj\Release\SafePart.csprojResolveAssemblyReference.cache
+C:\Users\李聪\Desktop\SafePart\obj\Release\SafePart.main.resources
+C:\Users\李聪\Desktop\SafePart\obj\Release\SafePart.Properties.Resources.resources
+C:\Users\李聪\Desktop\SafePart\obj\Release\SafePart.csproj.GenerateResource.Cache
+C:\Users\李聪\Desktop\SafePart\obj\Release\SafePart.exe
+C:\Users\李聪\Desktop\SafePart\obj\Release\SafePart.pdb
