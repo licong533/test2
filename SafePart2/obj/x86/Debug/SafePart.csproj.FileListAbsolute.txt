@@ -1,0 +1,20 @@
+C:\Users\Des\Documents\Visual Studio 2012\Projects\SafePart\SafePart\bin\x86\Debug\SafePart.exe.config
+C:\Users\Des\Documents\Visual Studio 2012\Projects\SafePart\SafePart\bin\x86\Debug\SafePart.exe
+C:\Users\Des\Documents\Visual Studio 2012\Projects\SafePart\SafePart\bin\x86\Debug\SafePart.pdb
+C:\Users\Des\Documents\Visual Studio 2012\Projects\SafePart\SafePart\bin\x86\Debug\ManagedOpenSsl.dll
+C:\Users\Des\Documents\Visual Studio 2012\Projects\SafePart\SafePart\obj\x86\Debug\SafePart.main.resources
+C:\Users\Des\Documents\Visual Studio 2012\Projects\SafePart\SafePart\obj\x86\Debug\SafePart.Properties.Resources.resources
+C:\Users\Des\Documents\Visual Studio 2012\Projects\SafePart\SafePart\obj\x86\Debug\SafePart.csproj.GenerateResource.Cache
+C:\Users\Des\Documents\Visual Studio 2012\Projects\SafePart\SafePart\obj\x86\Debug\SafePart.exe
+C:\Users\Des\Documents\Visual Studio 2012\Projects\SafePart\SafePart\obj\x86\Debug\SafePart.pdb
+C:\Users\Des\Documents\Visual Studio 2012\Projects\SafePart\SafePart\obj\x86\Debug\SafePart.csprojResolveAssemblyReference.cache
+C:\Users\李聪\Desktop\SafePart\bin\x86\Debug\SafePart.exe.config
+C:\Users\李聪\Desktop\SafePart\obj\x86\Debug\SafePart.exe
+C:\Users\李聪\Desktop\SafePart\obj\x86\Debug\SafePart.pdb
+C:\Users\李聪\Desktop\SafePart\bin\x86\Debug\SafePart.exe
+C:\Users\李聪\Desktop\SafePart\bin\x86\Debug\SafePart.pdb
+C:\Users\李聪\Desktop\SafePart\bin\x86\Debug\ManagedOpenSsl.dll
+C:\Users\李聪\Desktop\SafePart\obj\x86\Debug\SafePart.csprojResolveAssemblyReference.cache
+C:\Users\李聪\Desktop\SafePart\obj\x86\Debug\SafePart.main.resources
+C:\Users\李聪\Desktop\SafePart\obj\x86\Debug\SafePart.Properties.Resources.resources
+C:\Users\李聪\Desktop\SafePart\obj\x86\Debug\SafePart.csproj.GenerateResource.Cache
